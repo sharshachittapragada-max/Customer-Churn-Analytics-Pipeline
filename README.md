@@ -8,6 +8,8 @@ This project demonstrates a complete end-to-end analytics engineering workflow f
 
 The pipeline covers data ingestion, transformation, data modeling, and visualization to generate actionable business insights. It is designed to reflect real-world analytics engineering practices using dbt, PostgreSQL, and Tableau.
 
+<img width="750" height="300" alt="Screenshot 2026-05-05 203908" src="https://github.com/user-attachments/assets/fc015f81-8227-47d5-ba87-612d7615b422" />
+
 ---
 
 ## 🎯 Objectives
